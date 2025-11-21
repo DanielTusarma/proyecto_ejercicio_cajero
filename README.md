@@ -28,3 +28,19 @@ Desarrollado para el **Reto Final del Módulo 1 – Curso Dev Senior**. Python
 Este proyecto busca reforzar la programación básica en Python con un proyecto guiado.
 
 
+
+---
+
+## ▶️ Cómo Ejecutarlo
+
+1. Tener Python instalado (3.10+ recomendado)  
+2. Abrir la terminal  
+3. Navegar al directorio del proyecto:
+
+```bash
+cd Taller_final_modulo1
+```
+python ejercicio_cajero.py
+
+
+
