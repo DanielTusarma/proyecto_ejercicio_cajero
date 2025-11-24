@@ -42,5 +42,8 @@ cd Taller_final_modulo1
 ```
 python ejercicio_cajero.py
 
+## 🎥 Video explicativo del proyecto
+
+[![Ver video](https://img.youtube.com/vi/_jiP3xGaABw/0.jpg)](https://youtu.be/_jiP3xGaABw?si=HpTEs7iGmJngLZxf)
 
 
